@@ -6,13 +6,16 @@ Usecases:
 *Use ((RANDOM)) for Attendance Check
 
 2.Calculate Daily Employee Wage
+
 *Assume Wage per hour is 20
 *Assume full day hour is 8
 
-3.Add Part time Employee & Wage
+3.Add Part time Employee & 
+
 *Assume Part time Hour is 4
 
 4.Solving using Switch Case Statement
+
 5.Calculating Wages for a Month
 
 *Assume 20 Working Day per Month
@@ -30,4 +33,5 @@ Usecases:
 *Use Class Method with function parameters instead of Class Variables
 
 9.Ability to save the Total Wage for Each Company
+
 10.Ability to manage Employee Wage of multiple companies using Interface approach and using ArrayList. Ability to get the Total Wage when queried by Company
