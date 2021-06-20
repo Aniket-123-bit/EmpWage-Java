@@ -35,3 +35,11 @@ Usecases:
 9.Ability to save the Total Wage for Each Company
 
 10.Ability to manage Employee Wage of multiple companies using Interface approach and using ArrayList. Ability to get the Total Wage when queried by Company
+
+11.Implement Interface EmpWage Uc11.
+
+12.Use Arraylist instead of  Array Uc12.
+
+13.DTotal EmpWage Uc13.
+
+14.Get Total Wage When Quried by Company.
