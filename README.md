@@ -7,7 +7,7 @@ Usecases:
 
 2.Calculate Daily Employee Wage
 
-*Assume Wage per hour is 20
+Assume Wage per hour is 20
 *Assume full day hour is 8
 
 3.Add Part time Employee & 
