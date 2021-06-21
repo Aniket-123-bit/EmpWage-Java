@@ -2,7 +2,9 @@
 Start with Displaying Welcome to Employee Wage Computation Program on Master Branch
 
 Usecases:
+
 1.Check Employee is Present or Absent
+
 *Use ((RANDOM)) for Attendance Check
 
 2.Calculate Daily Employee Wage
